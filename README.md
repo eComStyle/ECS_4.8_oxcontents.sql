@@ -1,7 +1,7 @@
 ECS_4.8_oxcontents.sql
 ======================
 
-Neue CMS-Seiten für Shopversion 4.8
+Einige CMS-Seiten für Shopversion 6, falls diese beim Update von 4.7/4.8 noch fehlen.
 
 Installation: 
 
@@ -12,7 +12,7 @@ Licensing:
 	eComStyle.de
 	Author: Josef Andreas Puckl
 
-	Copyright 2013 eComStyle.de
+	Copyright eComStyle.de
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
